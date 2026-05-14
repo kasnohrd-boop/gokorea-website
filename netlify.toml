@@ -1,6 +1,5 @@
 [build]
-[build]
-  command = "echo 'Static HTML'"
+  command = "echo build"
   publish = "."
 
 [build.environment]
